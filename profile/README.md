@@ -1,11 +1,11 @@
 Olá! 👋
 
 🙋‍♀️ Uma breve introdução
-O "Clube de Leitura nas Montanhas" é uma organização dedicada ao estudo aprofundado de livros ténicos como Design Patterns e Clean Code. 
-Nosso objetivo é proporcionar um espaço colaborativo para aprender e discutir diferentes padrões de design, facilitando o aprimoramento das habilidades de nossos membros na área de desenvolvimento de software.
+O "Clube de Leitura nas Montanhas" é uma organização dedicada ao estudo aprofundado de livros técnicos como Design Patterns e Clean Code. 
+Nosso objetivo é proporcionar um espaço colaborativo para aprender e discutir diferentes padrões e boas práticas, facilitando o aprimoramento das habilidades de nossos membros na área de desenvolvimento de software.
 
 🌈 Diretrizes para contribuição
-Convidamos a comunidade a participar ativamente! Você pode contribuir sugerindo leituras, participando de discussões e compartilhando experiências práticas sobre a aplicação de Design Patterns. 
+Convidamos a comunidade a participar ativamente! Você pode contribuir sugerindo leituras, participando de discussões e compartilhando experiências práticas. 
 Para começar, junte-se a nossos encontros semanais ou participe das discussões em nosso fórum online.
 
 👩‍💻 Recursos úteis
