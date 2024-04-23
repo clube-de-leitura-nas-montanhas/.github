@@ -12,3 +12,5 @@ Além disso, mantemos uma lista curada de recursos externos que pode ser acessad
 🧙 Lembre-se
 Com o poder do Markdown, podemos criar uma documentação clara e eficaz, facilitando o compartilhamento de conhecimento e a colaboração dentro da comunidade. 
 Explore mais sobre como usar o Markdown para enriquecer nossas interações aqui.
+
+Confira nossa [agenda de leitura](https://github.com/clube-de-leitura-nas-montanhas/agenda)
